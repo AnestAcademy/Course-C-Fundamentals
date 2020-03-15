@@ -1,0 +1,73 @@
+### Những phép toán cơ bản
+
+Những gì chúng ta sẽ tìm hiểu không có gì khác ngoài những phép toán bình thường, máy tính của bạn là một cỗ máy tính toán đơn giản vì nó chỉ có thể làm những phép toán: 
+- Phép cộng
+- Phép trừ
+- Phép nhân
+- Phép chia
+- Phép module (Phép chia lấy dư)
+
+Chúng ta bắt đầu với phép cộng. Để thực hiện một phép cộng, chúng ta sử dụng kí tự +  Bạn cần phải đưa kết quả nhận được vào trong một biến số. 
+
+Chúng ta sẽ sử dụng biến số «ketqua» dạng int để thực hiện phép tính: 
+
+`int ketqua = 0; 
+ketqua = 5 + 3; `
+
+Và đó là phép cộng. 
+Và với những phép toán khác, cũng tương tự, chỉ cần thay đổi kí tự tính toán : 
+
+- Phép cộng : +
+- Phép trừ : -
+- Phép nhân : *
+- Phép chia : /
+- Module : %
+
+**Phép chia **
+
+Phép chia hoạt động bình thường trên máy tính nếu như không có số dư. Ví dụ, 6 / 3 bằng 2, máy tính của bạn sẽ cho một kết quả đúng, không hề sai sót. 
+
+Lưu ý : Đây là phép chia lấy lấy nguyên. Có nghĩa là khi bạn thực hiện một phép chia có dư  như 5/2 nếu như tính toán bình thường thì kết quả sẽ là 2.5 nhưng vì đây là phép chia lấy nguyên thế nên kết quả sẽ chỉ là 2
+
+Ví dụ:
+`int ketqua=0; 
+ketqua = 5 / 2; 
+printf ("5 / 2 = %d",ketqua); `
+
+Kết quả Console:
+`Ket qua = 2`
+
+**Phép module **
+
+Module là một phép toán cho ta số dư của một phép chia. Module được biểu thị bởi kí tự %. 
+Một số ví dụ : 
+- 4 % 3 = 1
+- 4 %2 = 0
+- 9 % 4 = 1
+..........
+
+### Phương pháp viết rút gọn 
+
+**Incrementing (Phương pháp tăng giá trị) **
+
+Bạn sẽ thấy rằng bạn sẽ phải thường xuyên tăng giá trị một biến số lên 1. Ví dụ như biến số của bạn là « sohang » . Và ta làm như sau: 
+`sohang = sohang + 1; `
+
+Chúng ta lấy sohang +1, và sau đó giá trị của sohang sẽ được tăng lên 1 đơn vị và được gán lại vào chính biến số « sohang »
+
+Và họ đã tạo ra một cách viết rút gọn gọi là **increment**. Đoạn mã sau cũng biểu thị điều tương tự với đoạn mã ta vừa thấy ở trên : 
+
+`sohang++;`
+
+Đoạn mã này khá ngắn so với những gì ta thấy trước đó, nó có nghĩa là « thêm 1 vào biến số sohang ». Chỉ cần viết tên biến số, sau đó thêm vào hai dấu +, và đừng quên dấu chấm phẩy đặt ở cuối cùng. 
+
+**Decrementing (Phương pháp giảm giá trị) **
+
+Đơn giản có thể hiểu là phương pháp này trái ngược hoàn toàn với increment. Chúng ta sẽ giảm giá trị của biến số đi 1. Và chúng ta cũng sẽ sử dụng nó thường xuyên như increment. 
+
+Nếu như ta viết nó đầy đủ : 
+
+`sohang = sohang - 1; `
+Thì đây là dạng rút gọn : 
+`sohang - -;`
+

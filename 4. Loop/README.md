@@ -5,9 +5,9 @@
 Vòng lặp cho phép bạn lặp lại việc thực thi một khối lệnh cho tới khi một điều kiện nhất định được thỏa mãn.
 
 Tùy thuộc vào vị trí của câu lệnh điều kiện trong chương trình, một vòng lặp được phân thành hai loại:
-- Entry controlled loop  
+- **Entry controlled loop**  
   Một điều kiện được kiểm tra trước khi thực hiện phần thân của một vòng lặp. Nó cũng được gọi là vòng lặp kiểm tra trước.
-- Exit controlled loop  
+- **Exit controlled loop**  
   Một điều kiện được kiểm tra sau khi thực hiện phần thân của một vòng lặp. Nó cũng được gọi là một vòng lặp kiểm tra sau.
 
 Các điều kiện điều phải được xác định rõ ràng và được chỉ định nếu không vòng lặp sẽ chạy vô số lần. Vòng lặp không dừng chạy (hay chạy mãi) được gọi là vòng lặp vô hạn (infinite loop). Sau đây là một số đặc điểm của một vòng lặp vô hạn:

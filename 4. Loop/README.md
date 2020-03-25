@@ -32,18 +32,18 @@ for (`khởi tạo giá trị biến lặp`; `điều kiện lặp`; `cập nh�
 ```
 ### 3. How for loop works?
 
-![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/for-loop-structure-in-c.png)
+![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/for-loop-structure-in-c.jpg)
 
 - Bước 1: Khởi tạo giá trị biến lặp, chỉ thực hiện 1 lần duy nhất
 - Bước 2: Kiểm tra điều kiện lặp, nếu điều kiện sai thì kết thúc vòng lặp.
 - Bước 3: Tuy nhiên, nếu biểu thức kiểm tra là đúng, các câu lệnh bên trong phần thân của vòng lặp for được thực thi.
 - Bước 4: Cập nhật giá trị biến lặp và quay trở lại bước 2 để kiểm tra.
 
-**4. Sơ đồ của vòng lặp for**
+### 4. `for` loop flowchart
 
-![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/v%C3%B2ng-l%E1%BA%B7p-for.jpg)
+![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/c-for-loop.jpg)
 
-**5. Ví dụ minh họa vòng lặp for trong C**
+### 5. Example:
 
 ```c
 #include <stdio.h>

@@ -27,6 +27,7 @@ Vòng lặp `for` được sử dụng để duyệt qua các phần tử trong 
 
 ```c
 for (khởi tạo giá trị biến lặp; điều kiện lặp; cập nhật biến lặp) {
+
    // statements inside the body of loop
 }
 ```

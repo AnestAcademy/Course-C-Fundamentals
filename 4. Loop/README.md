@@ -35,9 +35,11 @@ for (`khởi tạo giá trị biến lặp`; `điều kiện lặp`; `cập nh�
 ![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/for-loop-structure.jpg)
 
 - Bước 1: Khởi tạo giá trị biến lặp, chỉ thực hiện 1 lần duy nhất
-- Bước 2: Kiểm tra điều kiện lặp, nếu điều kiện sai thì kết thúc vòng lặp.
-- Bước 3: Tuy nhiên, nếu biểu thức kiểm tra là đúng, các câu lệnh bên trong phần thân của vòng lặp for được thực thi.
+- Bước 2: Kiểm tra điều kiện lặp, nếu điều kiện `false` thì kết thúc vòng lặp.
+- Bước 3: Tuy nhiên, nếu biểu thức kiểm tra là `true`, các câu lệnh bên trong phần thân của vòng lặp `for` được thực thi.
 - Bước 4: Cập nhật giá trị biến lặp và quay trở lại bước 2 để kiểm tra.
+
+Quá trình này diễn ra cho đến khi biểu thức điều kiện kiểm tra là `false`. Khi biểu thức điều kiện kiểm tra là `false`, vòng lặp chấm dứt.
 
 ### 4. `for` loop flowchart
 

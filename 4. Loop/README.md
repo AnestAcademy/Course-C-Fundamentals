@@ -26,7 +26,7 @@ Vòng lặp `for` được sử dụng để duyệt qua các phần tử trong 
 ### 1. The syntax of the `for` loop
 
 ```c
-for (`khởi tạo giá trị biến lặp`; `điều kiện lặp`; `cập nhật biến lặp`) {
+for (khởi tạo giá trị biến lặp; điều kiện lặp; cập nhật biến lặp) {
    // statements inside the body of loop
 }
 ```

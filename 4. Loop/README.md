@@ -4,13 +4,17 @@
 
 Vòng lặp cho phép bạn lặp lại việc thực thi một khối lệnh cho tới khi một điều kiện nhất định được thỏa mãn.
 
-Các điều kiện điều phải được xác định rõ ràng và được chỉ định nếu không vòng lặp sẽ chạy vô số lần. Vòng lặp không dừng chạy (hay chạy mãi) được gọi là vòng lặp vô hạn (infinite loop). Sau đây là một số đặc điểm của một vòng lặp vô hạn:
+Tùy thuộc vào vị trí của câu lệnh điều kiện trong chương trình, một vòng lặp được phân thành hai loại:
+- Entry controlled loop  
+  Một điều kiện được kiểm tra trước khi thực hiện phần thân của một vòng lặp. Nó cũng được gọi là vòng lặp kiểm tra trước.
+- Exit controlled loop  
+  Một điều kiện được kiểm tra sau khi thực hiện phần thân của một vòng lặp. Nó cũng được gọi là một vòng lặp kiểm tra sau.
 
+Các điều kiện điều phải được xác định rõ ràng và được chỉ định nếu không vòng lặp sẽ chạy vô số lần. Vòng lặp không dừng chạy (hay chạy mãi) được gọi là vòng lặp vô hạn (infinite loop). Sau đây là một số đặc điểm của một vòng lặp vô hạn:
 - Không có điều kiện chấm dứt được chỉ định.
 - Các điều kiện quy định không bao giờ được đáp ứng.
 
 Ngôn ngữ lập trình C cung cấp cho chúng ta ba loại cấu trúc vòng lặp:
-
 - Vòng lặp `for`
 - Vòng lặp `do-while`
 - Vòng lặp `while`

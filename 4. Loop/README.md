@@ -19,21 +19,18 @@ Ngôn ngữ lập trình C cung cấp cho chúng ta ba loại cấu trúc vòng 
 - Vòng lặp `do-while`
 - Vòng lặp `while`
 
-## I. for loop
+## I. `for` loop
 
-**1. Định Nghĩa:**
+Vòng lặp `for` được sử dụng để duyệt qua các phần tử trong một tập hợp. Nó thường được sử dụng khi bạn có một khối câu lệnh cần được thực thi `n` lần, có nghĩa là bạn biết được số lượng vòng lặp cần thực hiện.
 
-Vòng lặp for được sử dụng để duyệt qua các phần tử trong một tập hợp. Nó thường được sử dụng khi bạn có một khối câu lệnh cần được thực thi “n” lần.
-
-**2. Cú pháp vòng lặp for trong C**
+### 1. The syntax of the `for` loop
 
 ```c
-for (khởi tạo giá trị biến lặp; điều kiện lặp; cập nhật biến lặp)
-{
+for (`khởi tạo giá trị biến lặp`; `điều kiện lặp`; `cập nhật biến lặp`) {
    // statements inside the body of loop
 }
 ```
-**3. Vòng lặp for hoạt động như thế nào?**
+### 3. How for loop works?
 
 ![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/for-loop-structure-in-c.png)
 

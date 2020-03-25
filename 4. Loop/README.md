@@ -1,16 +1,19 @@
 # Loop
 
-**What is a loop?**
+### What is a loop?
 
 Vòng lặp cho phép bạn lặp lại việc thực thi một khối lệnh cho tới khi một điều kiện nhất định được thỏa mãn.
 
-Trong lập trình C có 3 kiểu vòng lặp :
+Các điều kiện điều phải được xác định rõ ràng và được chỉ định nếu không vòng lặp sẽ chạy vô số lần. Vòng lặp không dừng chạy (hay chạy mãi) được gọi là vòng lặp vô hạn (infinite loop). Sau đây là một số đặc điểm của một vòng lặp vô hạn:
 
-- For
+- Không có điều kiện chấm dứt được chỉ định.
+- Các điều kiện quy định không bao giờ được đáp ứng.
 
-- While
+Ngôn ngữ lập trình C cung cấp cho chúng ta ba loại cấu trúc vòng lặp:
 
-- Do-While
+- Vòng lặp `for`
+- Vòng lặp `do-while`
+- Vòng lặp `while`
 
 ## I. for loop
 

@@ -104,7 +104,8 @@ while (testExpression)
 
 **3. Và đây là sơ đồ khối mô tả hoạt động của vòng lặp while:**
 
--> ![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/c-while-loop_0.jpg) <-
+| ![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/c-while-loop_0.jpg) |
+|-|
 
 - Vòng lặp while kiểm tra biểu thức kiểm tra bên trong dấu ngoặc đơn ().
 - Nếu biểu thức kiểm tra là đúng, các câu lệnh bên trong thân vòng lặp while được thực thi. Sau đó, biểu thức kiểm tra được đánh giá lại.

@@ -33,7 +33,9 @@ for (khởi tạo giá trị biến lặp; điều kiện lặp; cập nhật bi
 ```
 ### 3. How for loop works?
 
-![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/for-loop-structure.jpg)
+<p align="center">
+  <img src="https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/for-loop-structure.jpg">
+</p>
 
 - Bước 1: Khởi tạo giá trị biến lặp, chỉ thực hiện 1 lần duy nhất
 - Bước 2: Kiểm tra điều kiện lặp, nếu điều kiện `false` thì kết thúc vòng lặp.
@@ -44,7 +46,9 @@ Quá trình này diễn ra cho đến khi biểu thức điều kiện kiểm tr
 
 ### 4. `for` loop flowchart
 
-![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/c-for-loop.jpg)
+<p align="center">
+  <img src="https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/c-for-loop.jpg">
+</p>
 
 ### 5. Example:
 
@@ -168,9 +172,12 @@ do
 while (testExpression);
 ```
 **3. Vòng lặp do...while hoạt động như thế nào?**
+
 Sơ đồ của do...while loop
 
-![alt](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/c-do-while-loop_0.jpg)
+<p align="center">
+  <img src="https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/Images/c-do-while-loop_0.jpg">
+</p>
 
 - Phần thân của vòng lặp do ... luôn luôn thực thi một lần. Sau đó, biểu thức kiểm tra mới được đánh giá.
 - Nếu biểu thức kiểm tra là đúng, phần thân của vòng lặp được thực hiện lại.

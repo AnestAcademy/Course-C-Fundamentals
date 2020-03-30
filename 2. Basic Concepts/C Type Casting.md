@@ -1,0 +1,3 @@
+# Type Casting
+
+Chuyển đổi một kiểu dữ liệu thành một kiểu dữ liệu khác được gọi `type casting` hoặc `type-conversion`.

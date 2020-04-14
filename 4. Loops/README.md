@@ -2,7 +2,7 @@
 
 <br />
 
-## What is a loop?
+## I. What is a loop?
 
 Vòng lặp cho phép bạn lặp lại việc thực thi một khối lệnh cho tới khi một điều kiện nhất định được thỏa mãn.
 
@@ -23,7 +23,7 @@ Ngôn ngữ lập trình C cung cấp cho chúng ta ba loại cấu trúc vòng 
 
 <br />
 
-## Keywords related to the loop
+## II. Keywords related to the loop
 
 <br />
 

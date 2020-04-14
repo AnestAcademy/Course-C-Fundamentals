@@ -1,6 +1,6 @@
 # Loop
 
-### What is a loop?
+## What is a loop?
 
 <br />
 

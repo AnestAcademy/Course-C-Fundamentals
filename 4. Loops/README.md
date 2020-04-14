@@ -21,6 +21,11 @@ Ngôn ngữ lập trình C cung cấp cho chúng ta ba loại cấu trúc vòng 
 - [`do-while`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/2.%20do-while.md)
 - [`while`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/3.%20while.md)
 
+<br />
+
+## Keywords related to the loop
+
+<br />
 
 ## II. while loop
 

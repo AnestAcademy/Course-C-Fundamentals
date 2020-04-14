@@ -2,8 +2,6 @@
 
 ## What is a loop?
 
-<br />
-
 Vòng lặp cho phép bạn lặp lại việc thực thi một khối lệnh cho tới khi một điều kiện nhất định được thỏa mãn.
 
 Tùy thuộc vào vị trí của câu lệnh điều kiện trong chương trình, một vòng lặp được phân thành hai loại:

@@ -25,6 +25,9 @@ Ngôn ngữ lập trình C cung cấp cho chúng ta ba loại cấu trúc vòng 
 
 ## II. Keywords related to the loop
 
+- [`break & continue`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/4.%20break%20%26%20continue.md)
+- [`goto`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/5.%20goto.md)
+
 <br />
 
 ## II. while loop

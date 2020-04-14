@@ -1,5 +1,7 @@
 # Loop
 
+<br />
+
 ## What is a loop?
 
 Vòng lặp cho phép bạn lặp lại việc thực thi một khối lệnh cho tới khi một điều kiện nhất định được thỏa mãn.

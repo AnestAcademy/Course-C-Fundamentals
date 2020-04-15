@@ -25,8 +25,8 @@ Ngôn ngữ lập trình C cung cấp cho chúng ta ba loại cấu trúc vòng 
 
 ## II. Keywords related to the loop
 
-Các câu lệnh `break`, `continue` và `goto` được sử dụng để thay đổi luồng bình thường của chương trình.
-Các vòng lặp thực hiện một tập hợp các tác vụ lặp đi lặp lại cho đến khi điều kiện trở thành sai nhưng đôi khi bạn nên bỏ qua một số câu lệnh bên trong vòng lặp hoặc chấm dứt vòng lặp ngay lập tức mà không muốn kiểm tra biểu thức điều kiện. Trong các trường hợp như vậy, `break`, `continue` và `goto` được sử dụng.
+Các câu lệnh **`break`**, **`continue`** và **`goto`** được sử dụng để thay đổi luồng bình thường của chương trình.
+Các vòng lặp thực hiện một tập hợp các tác vụ lặp đi lặp lại cho đến khi điều kiện trở thành sai nhưng đôi khi bạn nên bỏ qua một số câu lệnh bên trong vòng lặp hoặc chấm dứt vòng lặp ngay lập tức mà không muốn kiểm tra biểu thức điều kiện. Trong các trường hợp như vậy, **`break`**, **`continue`** và **`goto`** được sử dụng.
 
 - [`break & continue`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/4.%20break%20%26%20continue.md)
 - [`goto`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/5.%20goto.md)

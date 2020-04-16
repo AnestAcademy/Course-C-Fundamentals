@@ -31,4 +31,9 @@ Các vòng lặp thực hiện một tập hợp các tác vụ lặp đi lặp 
 - [`continue`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/5.%20continue.md)
 - [`goto`](https://github.com/AnestLearning/Course-C-Fundamentals/blob/master/4.%20Loops/6.%20goto.md)
 
-<br />
+
+##  
+
+© Copyright
+> ANEST LEARNING  
+> Join us: [Facebook groups](https://www.facebook.com/groups/anest.learning/)

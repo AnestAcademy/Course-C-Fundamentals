@@ -7,5 +7,5 @@
 ```
 ANEST LEARNING
 Email: anest.academy@gmail.com
-Fb: fb.com/groups/anest.learning/
+Facebook: fb.com/groups/anest.learning/
 ```

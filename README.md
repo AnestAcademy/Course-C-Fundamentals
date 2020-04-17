@@ -2,9 +2,9 @@
 
 <br />
 
-Khóa học **C-Fundamentals** dành cho người mới chưa có kiến thức về lập trình có thể tham gia học để có sự bắt đầu với việc học lập trình một cách đúng đắn nhất.
+Khóa học **C-Fundamentals** dành cho người mới chưa có kiến thức về lập trình có thể tham gia học giúp bạn có thể xác định con đường - định hướng học lập trình đúng đắn nhất.
 
-- Giáo trình được viết phù hợp với người mới theo kinh nghiệm giảng dạy thực tế của người viết.
+- Giáo trình được viết phù hợp với người mới và có ví dụ minh họa chi tiết, cụ thể theo kinh nghiệm giảng dạy thực tế của người viết.
 - Giáo trình có tham khảo các nguồn tài liệu nước ngoài đáng tin cậy và uy tín.
 - Giáo trình có đan xen khá nhiều tiếng anh vì người viết muốn giữ lại tính đúng đắn của từ ngữ và từ khóa của ngôn ngữ lập trình. Việc này có thể gây khó khăn nhỏ ban đầu khi mới học cho người mới, nhưng sẽ giúp ích rất nhiều sau này cho bạn - giúp bạn ghi nhớ và làm quen với việc học và viết code bằng tiếng anh.
 

@@ -13,6 +13,8 @@ Bạn có thể hiểu đơn giản là:
 
 Nên vì vậy **`function`**  dịch ra có nghĩa là **hàm** hoặc là **chức năng** đều giống nhau.
 
+<br />
+
 Giả sử, bạn cần tạo một chương trình để tính tổng các số nguyên tố từ `1` đến `100`. Bạn có thể tạo hai chức năng để giải quyết vấn đề này:
 
 - Tạo một hàm có chức năng kiểm tra 1 số có phải số nguyên tố hay không

@@ -20,4 +20,11 @@ Giả sử, bạn cần tạo một chương trình để tính tổng các số
 - Tạo một hàm có chức năng kiểm tra 1 số có phải số nguyên tố hay không
 - Tạo một hàm có chức năng tính tổng
 
-Chia một vấn đề phức tạp thành nhiều phần nhỏ hơn giúp chương trình của chúng ta dễ hiểu và tái sử dụng.
+→ Chia một vấn đề phức tạp thành nhiều phần nhỏ hơn giúp chương trình của chúng ta dễ hiểu và tái sử dụng.
+
+
+##  
+
+© Copyright
+> ANEST LEARNING  
+> Join us: [Facebook groups](https://www.facebook.com/groups/anest.learning/)

@@ -22,6 +22,15 @@ Giả sử, bạn cần tạo một chương trình để tính tổng các số
 
 Chia một vấn đề phức tạp thành nhiều phần nhỏ hơn giúp chương trình của chúng ta dễ hiểu và tái sử dụng.
 
+<br />
+
+## II. Types of function
+
+Có 2 loại hàm trong lập trình C đó là:
+
+- [Standard library functions]()
+- [User-defined functions]()
+
 
 ##  
 

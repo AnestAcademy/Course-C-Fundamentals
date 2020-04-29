@@ -28,8 +28,8 @@ Chia một vấn đề phức tạp thành nhiều phần nhỏ hơn giúp chư�
 
 Có 2 loại hàm trong lập trình C đó là:
 
-- Standard library functions (Hàm thư viện chuẩn)
-- User-defined functions (Hàm do người dùng định nghĩa)
+- Standard library functions - Hàm thư viện chuẩn
+- User-defined functions - Hàm do người dùng định nghĩa
 
 Về cách tạo và sử dụng hàm chúng ta sẽ cùng xem chi tiết trong từng bài viết.
 

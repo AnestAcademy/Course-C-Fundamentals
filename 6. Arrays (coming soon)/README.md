@@ -9,12 +9,9 @@ Trong bài này, bạn sẽ được giới thiệu về mảng (Arrays) trong l
 ![markdown](https://cdn.programiz.com/sites/tutorial2program/files/c-arrays.jpg)
 
 Mảng là một biến có thể lưu trữ nhiều giá trị. Ví dụ: nếu bạn muốn lưu trữ 10 số nguyên, bạn có thể tạo một mảng cho nó.
-```
+```c
 int number[10]
 ```
-
-
-
 <br />
 
 ##  

@@ -34,15 +34,15 @@ char c[] = {'a', 'b', 'c', 'd', 'e', '\0'};
 char c[6] = {'a', 'b', 'c', 'd', 'e', '\0'};
 ```
 
-| c[0] | c[1] |c[2] | c[3] | c[4] | c[5] |
-| - | :-: | - | - | - | -  |  
-| a | b |c | d | e | \0 | 
+| c[0] | c[1] | c[2] | c[3] | c[4] | c[5] |
+| :--: | :--: | :--: | :--: | :--: | :--: |  
+|a|b|c|d|e|\0| 
 
 Hoặc cũng có thể khởi tạo như sau
 ```c
 char c[5] = "abcde";
 ```
-Lúc này, ta đang cố gán 6 ký tự (ký tự cuối cùng là `\0`) cho một mảng c có 5 ký tự. Điều này thật tệ và ta không nên làm điều này.
+Lúc này, ta đang cố gán 6 ký tự (ký tự cuối cùng là `\0`) cho một mảng c có 5 ký tự. Điều này thật tệ và ta không nên làm như thế.
 
 <br/>
 
@@ -101,7 +101,7 @@ Your name is Anest.
 
 Mặc dù `Anest Academy` đã được nhập tại chương trình trên nhưng chỉ `Anest` được lưu trữ tại string `name`, đó là vì có một khoảng trắng đằng sau `Anest`
 
-Vậy làm thế nào để đọc một dòng văn bản
+Vậy làm thế nào để đọc một dòng văn bản?
 
 ### Chúng ta sử dụng hàm `fgets()` để đọc một dòng văn bản
 

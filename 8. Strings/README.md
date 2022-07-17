@@ -3,8 +3,6 @@
 
 Trong bài học này, chúng ta sẽ tìm hiểu thông qua các ví dụ các ví dụ.
 
-Trước khi tìm hiểu về con trỏ ta hãy tìm hiểu về địa chỉ trong lập trình C
-
 <br />
 
 ## What is String?

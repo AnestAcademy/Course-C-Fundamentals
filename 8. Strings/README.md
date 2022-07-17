@@ -1,7 +1,7 @@
 
 # Strings
 
-Trong bài học này, chúng ta sẽ tìm hiểu thông qua các ví dụ các ví dụ.
+Trong bài học này, chúng ta sẽ tìm hiểu chuỗi thông qua các ví dụ các ví dụ.
 
 <br />
 
